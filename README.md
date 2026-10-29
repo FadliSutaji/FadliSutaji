@@ -15,19 +15,18 @@
 - 🎓 **Internet Engineering Technology** (D-IV) student at **Universitas Gadjah Mada** (IPK: 3.80 / 4.00).
 - 🖧 Passionate about **Enterprise Networking**, **High Availability (Failover & LACP Bonding)**, **Routing (OSPF & BGP)**, and **Network Security**.
 - ☁️ Experienced in configuring **MikroTik RouterOS**, **Cisco IOS**, and deploying edge/cloud workloads with **Linux** & **Kubernetes (K3s)**.
-- 📜 Certified in **Cisco CCNA (Intro to Networks)**, **Cisco CyberOps Associate**, and **Huawei HCIA-Cloud Computing**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,cisco,python,docker,kubernetes,fastapi,git,github,vscode,bash,arduino" />
 </p>
 
 * **Network & Routing:** MikroTik RouterOS (v6/v7), Cisco IOS, BGP, OSPF (Backbone & Mesh), RIPv2, Static Routing, VLAN 802.1Q.
 * **Redundancy & Security:** Dual-ISP Failover, LACP Bonding (802.3ad), Stateful Firewall, EoIP / PPTP Tunneling, Cisco Port Security & SSH v2.
-* **Analysis & Monitoring:** Wireshark, Winbox, Cisco Packet Tracer, Snort IDS, Kibana.
+* **Analysis & Monitoring:** Winbox, Cisco Packet Tracer
 
 ---
 

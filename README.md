@@ -17,22 +17,21 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **D-IV Teknologi Rekayasa Internet** (Internet Engineering Technology) student at **Sekolah Vokasi, Universitas Gadjah Mada (UGM)** (IPK: 3.80 / 4.00).
+- 🎓 **D-IV Teknologi Rekayasa Internet** (Internet Engineering Technology) student at **Sekolah Vokasi, Universitas Gadjah Mada (UGM)**.
 - 🖧 Passionate about **Enterprise Networking**, **High Availability (Failover & LACP Bonding)**, **Routing (OSPF & BGP)**, and **Network Security**.
 - ☁️ Experienced in configuring **MikroTik RouterOS**, **Cisco IOS**, and deploying edge/cloud workloads with **Linux (Ubuntu Server)** & **Kubernetes (K3s)**.
-- 📜 Certified in **Cisco CCNA (Intro to Networks)**, **Cisco CyberOps Associate**, and **Huawei HCIA-Cloud Computing**.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <!-- Modern Icon Grid -->
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,cisco,python,docker,kubernetes,fastapi,git,github,vscode,bash,arduino,raspberrypi,nginx" />
 </p>
 
 <!-- Networking Core Badges -->
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MikroTik_RouterOS-24292e?style=for-the-badge&logo=mikrotik&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -51,8 +50,3 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FadliSutaji&theme=tokyonight&hide_border=true&border_radius=8" width="95%" alt="Fadli's Streak"/>
-</div>

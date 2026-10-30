@@ -27,7 +27,7 @@
 
 <!-- Modern Icon Grid -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,cisco,python,docker,kubernetes,fastapi,git,github,vscode,bash,arduino,raspberrypi,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,docker,kubernetes,fastapi,git,github,vscode,bash,arduino,raspberrypi,nginx" />
 </p>
 
 <!-- Networking Core Badges -->

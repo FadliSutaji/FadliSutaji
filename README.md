@@ -27,14 +27,13 @@
 
 <!-- Modern Icon Grid -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,docker,kubernetes,fastapi,git,github,vscode,bash,arduino,raspberrypi,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,python,docker,kubernetes,fastapi,git,github,vscode,arduino,raspberrypi,nginx" />
 </p>
 
 <!-- Networking Core Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik_RouterOS-24292e?style=for-the-badge&logo=mikrotik&logoColor=white" />
   <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Packet_Tracer-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
